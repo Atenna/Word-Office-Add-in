@@ -1,0 +1,7 @@
+False
+5edbfd2c-eaaf-420f-86c4-49ccd32ac66ac3297bde-2bfa-49c2-a4ac-301c868f5c04
+{ecbb2ba7-4aa9-4d07-ab45-db102e5f8251}{95729cda-4c03-42ff-aabd-7fecc2a663c3}
+{b06b5c29-9576-4a2e-a77f-5842748fbb70}
+1.0.0.0
+TaskPaneAddin1
+_layouts/15/

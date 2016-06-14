@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.OfficeApp" DefaultFile="TaskPaneAddin1.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="AppPackage" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="TaskPaneAddin1.xml" Target="TaskPaneAddin1.xml\" Type="AppPackage" />
+  </Files>
+  <ExtensionData>
+    <ExtensionDataItem Key="OfficeAppManifestRelativePath" Value="TaskPaneAddin1.xml\TaskPaneAddin1.xml" />
+    <ExtensionDataItem Key="OfficeAppStartPageRelativePath" Value="App\Home\Home.html" />
+  </ExtensionData>
+</ProjectItem>

@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\TaskPaneAddin1.xml
+C:\Users\il\Downloads\Napa_TaskPaneAddin1\TaskPaneAddin1\bin\Debug\TaskPaneAddin1.debugapp
