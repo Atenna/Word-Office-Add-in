@@ -4,3 +4,9 @@ C:\Users\il\Downloads\Napa_TaskPaneAddin1\TaskPaneAddin1Web\bin\TaskPaneAddin1We
 C:\Users\il\Downloads\Napa_TaskPaneAddin1\TaskPaneAddin1Web\obj\Debug\TaskPaneAddin1Web.csprojResolveAssemblyReference.cache
 C:\Users\il\Downloads\Napa_TaskPaneAddin1\TaskPaneAddin1Web\obj\Debug\TaskPaneAddin1Web.dll
 C:\Users\il\Downloads\Napa_TaskPaneAddin1\TaskPaneAddin1Web\obj\Debug\TaskPaneAddin1Web.pdb
+C:\Users\il\Documents\GitHub\Word-Office-Add-in\Napa_TaskPaneAddin1\TaskPaneAddin1Web\bin\TaskPaneAddin1Web.dll.config
+C:\Users\il\Documents\GitHub\Word-Office-Add-in\Napa_TaskPaneAddin1\TaskPaneAddin1Web\bin\TaskPaneAddin1Web.dll
+C:\Users\il\Documents\GitHub\Word-Office-Add-in\Napa_TaskPaneAddin1\TaskPaneAddin1Web\bin\TaskPaneAddin1Web.pdb
+C:\Users\il\Documents\GitHub\Word-Office-Add-in\Napa_TaskPaneAddin1\TaskPaneAddin1Web\obj\Debug\TaskPaneAddin1Web.csprojResolveAssemblyReference.cache
+C:\Users\il\Documents\GitHub\Word-Office-Add-in\Napa_TaskPaneAddin1\TaskPaneAddin1Web\obj\Debug\TaskPaneAddin1Web.dll
+C:\Users\il\Documents\GitHub\Word-Office-Add-in\Napa_TaskPaneAddin1\TaskPaneAddin1Web\obj\Debug\TaskPaneAddin1Web.pdb

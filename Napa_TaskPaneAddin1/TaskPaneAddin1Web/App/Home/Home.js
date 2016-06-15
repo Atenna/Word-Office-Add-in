@@ -18,7 +18,8 @@
         Office.context.document.getSelectedDataAsync(Office.CoercionType.Text,
 			function (result) {
 			    if (result.status === Office.AsyncResultStatus.Succeeded) {
-			        app.showNotification('The selected text is:', '"' + result.value + '"');
+			        $("#statement").html("Ivana is " + result.value);
+			        //app.showNotification('The selected text is:', '"' + result.value + '"');
 			    } else {
 			        app.showNotification('Error:', result.error.message);
 			    }

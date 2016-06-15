@@ -67,6 +67,7 @@
     <Content Include="App\Home\Home.css" />
     <Content Include="App\Home\Home.html" />
     <Content Include="App\Home\Home.js" />
+    <Content Include="App\Home\IvanaApp.js" />
     <Content Include="bootstrap.js" />
     <Content Include="bootstrap.min.js" />
     <Content Include="Content\Office.css" />
